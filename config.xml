@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="it.adcoop.chicomendes"
-        version="1.4.0"
-        android-versionCode="1.4.0"
-        ios-CFBundleVersion="1.4.0"
+<widget id="com.cassandralab.websiteapp"
+        version="1.1.0"
+        android-versionCode="1.1.0"
+        ios-CFBundleVersion="1.1.0"
         xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ChicoMendes</name>
+    <name>CassandraLab</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Website of Cassandra Lab - UNIMI
     </description>
-    <author email="marco.foi@adcoop.it" href="http://www.adcoop.it">
-        ADCoop Android Team
+    <author email="foimarco@gmail.com" href="http://www.cassandralab.com/">
+        CassandraLab Android Team
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />

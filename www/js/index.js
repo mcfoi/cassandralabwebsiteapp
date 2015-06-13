@@ -33,7 +33,7 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        window.location="http://www.mcfoi.it/esrimaps/";
+        window.location="http://www.cassandralab.com/";
         // app.receivedEvent('deviceready');
     },
     // Update DOM on a Received Event
